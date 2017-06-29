@@ -40,7 +40,7 @@
 
 ## Previous projects (relevant)
 ### InvestPortal Map (2017)
-A web-application representing interactive map (yandex map API is used for). Also there is included React and Redux to client rendering and data manage respectively.
+A web-application representing interactive map (yandex maps api is used for). Also there is included React and Redux to client rendering and data manage respectively.
 
 ### [Susanin](https://susanin.news/) (2016-2017)
 Huge content portal written with jquery, html, css.
