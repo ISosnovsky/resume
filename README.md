@@ -31,6 +31,7 @@
 * jQuery
 * AJAX
 * HTML5 Video API, Audio API
+* Prototype/functional OOP styles
 
 
 ### Additional
