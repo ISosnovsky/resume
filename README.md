@@ -21,6 +21,7 @@
 * SASS, PostCSS
 * Jade/Pug, Twig
 * Bootstrap, Foundation, Susy
+* Handlebars
 
 
 ### Javascript
