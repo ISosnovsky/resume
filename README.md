@@ -27,6 +27,7 @@
 ### Javascript
 
 * React + Redux
+* Vue + Vuex
 * ES6, ES5
 * jQuery
 * AJAX
