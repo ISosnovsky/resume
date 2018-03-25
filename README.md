@@ -28,20 +28,22 @@
 
 * React + Redux
 * Vue + Vuex
-* ES6, ES5
-* jQuery
+* ES7, ES6, ES5
 * AJAX
-* HTML5 Video API, Audio API
 * Prototype/functional OOP styles
+* Flow, Typescript
 
 
 ### Additional
-* Tools: Gulp, Webpack, NPM , Babel
+* Tools: Gulp, Webpack, NPM , Babel, Sequilize, Inversifyjs
 * VCS: Git
 
 
 
 ## Previous projects (relevant)
+### [Goods.ru](https://goods.ru/) (2018)
+Huge online market. The frontend part is written with vue, vuex.
+
 ### [InvestPortal Map](http://investudm.ru/map/) (2017)
 A web-application representing interactive map (yandex maps api is used for). Also there is included React and Redux to client rendering and data manage respectively.
 
